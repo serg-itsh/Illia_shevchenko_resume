@@ -1,0 +1,103 @@
+@import-normalize; /* bring in normalize.css styles */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:regular,bold,medium,medium regular,semiBold regular,extrabold,semibold,black&subset=latin,latin-ext');
+
+/* @import-normalize; bring in normalize.css styles */
+/* @import '../node_modules/modern-normalize/modern-normalize.css'; */
+
+/* :root[data-theme='light'] {
+  --main-color: #f5f6fb;
+  --secondary-color: #555555;
+  --form-color: #ffffff;
+  --accent-color: #ff6b09;
+  --fill-color: #02172a;
+  --border-color: #00122f;
+  --main-text: #000000;
+  --secondary-text: #555555;
+  --footer-text: rgba(255, 255, 255, 0.4);
+  --border-line: #e2e3e5;
+  --input-form: #bbbbbb;
+  --border-input: #ced2d1;
+  --back-color: #f9fafc;
+  --bg-avatar: #f9fafc;
+  --fill-btn: #02172a;
+  --btns-color: #fafafa;
+  --rgb-color: 0, 0, 0;
+} */
+
+/* :root[data-theme='dark'] {
+  --main-color: #02172a;
+  --form-color: #344555;
+  --main-text: #f9fafc;
+  --secondary-text: #9f9c9c;
+  --fill-btn: #f9fafc;
+  --bg-avatar: #f9fafc;
+  --secondary-color: #f9fafc;
+  --accent-color: #ff6b09;
+  --btns-color: #9c9a9a;
+  --border-line: #e2e3e5;
+  --border-color: #e2e3e5;
+  --footer-text: rgba(255, 255, 255, 0.4);
+  --input-form: #bbbbbb;
+  --border-input: #ced2d1;
+  --rgb-color: 193, 191, 191;
+} */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--main-color);
+  font-family: 'Montserrat', sans-serif;
+}
+
+ul {
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+h1,
+h2,
+h3,
+h4,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+}
+a {
+  text-decoration: none;
+}
+img,
+svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.noscroll {
+  overflow: hidden;
+}
