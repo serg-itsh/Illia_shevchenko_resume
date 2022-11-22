@@ -1,13 +1,39 @@
 {
   "files": {
-    "main.css": "/illia-shevchenko-resume/static/css/main.7acaea2f.css",
-    "main.js": "/illia-shevchenko-resume/static/js/main.07d3183d.js",
+    "main.css": "/illia-shevchenko-resume/static/css/main.2221a0a3.css",
+    "main.js": "/illia-shevchenko-resume/static/js/main.65fb0ae7.js",
+    "static/media/video-mp4_05.mp4": "/illia-shevchenko-resume/static/media/video-mp4_05.5ca12588a9ccb921f05c.mp4",
+    "static/media/video-mp4_06.mp4": "/illia-shevchenko-resume/static/media/video-mp4_06.57afbeb6d42bbad6bced.mp4",
+    "static/media/video-webm_05.webm": "/illia-shevchenko-resume/static/media/video-webm_05.7d1d5d3e325ed5aa41d9.webm",
+    "static/media/video-mp4_01.mp4": "/illia-shevchenko-resume/static/media/video-mp4_01.d3d2ce17b29e4d50c59c.mp4",
+    "static/media/video-mp4_03.mp4": "/illia-shevchenko-resume/static/media/video-mp4_03.bb1ad1c6767b494375f4.mp4",
+    "static/media/video-webm_06.webm": "/illia-shevchenko-resume/static/media/video-webm_06.9051101a226e0af6560b.webm",
+    "static/media/animation-mp4_02.mp4": "/illia-shevchenko-resume/static/media/animation-mp4_02.d50a51f74e3fd7b06b5d.mp4",
+    "static/media/video-webm_01.webm": "/illia-shevchenko-resume/static/media/video-webm_01.c8902f72af29e8582e73.webm",
+    "static/media/video-webm_03.webm": "/illia-shevchenko-resume/static/media/video-webm_03.a8e3b68fb4ca50882c5e.webm",
+    "static/media/video-webm_02.webm": "/illia-shevchenko-resume/static/media/video-webm_02.2b284f26f8d6b442ef2e.webm",
+    "static/media/bart-mp4_04.mp4": "/illia-shevchenko-resume/static/media/bart-mp4_04.6187159e8b24717e9314.mp4",
+    "static/media/video-webm_04.webm": "/illia-shevchenko-resume/static/media/video-webm_04.79421bdc86b436133494.webm",
+    "static/media/foto-03.jpg": "/illia-shevchenko-resume/static/media/foto-03.90388f28e4241c706e74.jpg",
+    "static/media/project_01.jpg": "/illia-shevchenko-resume/static/media/project_01.efcd3a4c656f02f4de77.jpg",
+    "static/media/project_04.jpg": "/illia-shevchenko-resume/static/media/project_04.04d10dd380160a55c0d0.jpg",
+    "static/media/cv_illia_shevchenko.pdf": "/illia-shevchenko-resume/static/media/cv_illia_shevchenko.daf5f093a8bb4599f154.pdf",
+    "static/media/project_02.jpg": "/illia-shevchenko-resume/static/media/project_02.e573405aa3a85784ba77.jpg",
+    "static/media/unity_02.png": "/illia-shevchenko-resume/static/media/unity_02.476466ec560b0e37eb68.png",
+    "static/media/team-projects_02.jpg": "/illia-shevchenko-resume/static/media/team-projects_02.6f2a82414b68aa48c377.jpg",
+    "static/media/project_06.jpg": "/illia-shevchenko-resume/static/media/project_06.2c7ed8d105e6e19b4a56.jpg",
+    "static/media/project_03.jpg": "/illia-shevchenko-resume/static/media/project_03.1241cbb5238d469bf873.jpg",
+    "static/media/ampli_01.png": "/illia-shevchenko-resume/static/media/ampli_01.76c0e8dc09b0b96e09bb.png",
+    "static/media/project_05.jpg": "/illia-shevchenko-resume/static/media/project_05.210187ebb8ae3b0fb1fc.jpg",
+    "static/media/symbol-defs.svg": "/illia-shevchenko-resume/static/media/symbol-defs.4ca759390e8e5f97540dc6e5612e244c.svg",
+    "static/media/dut.jpg": "/illia-shevchenko-resume/static/media/dut.d3421849bf7a9800ed3b.jpg",
+    "static/media/logo-illia.svg": "/illia-shevchenko-resume/static/media/logo-illia.9b083250787ff0647b81cbdc74f0a558.svg",
     "index.html": "/illia-shevchenko-resume/index.html",
-    "main.7acaea2f.css.map": "/illia-shevchenko-resume/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/illia-shevchenko-resume/static/js/main.07d3183d.js.map"
+    "main.2221a0a3.css.map": "/illia-shevchenko-resume/static/css/main.2221a0a3.css.map",
+    "main.65fb0ae7.js.map": "/illia-shevchenko-resume/static/js/main.65fb0ae7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.2221a0a3.css",
+    "static/js/main.65fb0ae7.js"
   ]
 }
