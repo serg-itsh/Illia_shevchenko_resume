@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/illia-shevchenko-resume/static/css/main.d9fb6ac6.css",
+    "main.js": "/illia-shevchenko-resume/static/js/main.78057e51.js",
+    "static/media/logo-04-07.svg": "/illia-shevchenko-resume/static/media/logo-04-07.9785ae0c2b8ef001dd6beea9df14900f.svg",
+    "static/media/team-03-pr-film_03.jpg": "/illia-shevchenko-resume/static/media/team-03-pr-film_03.d278874e0904f6b2e107.jpg",
+    "static/media/markup-hw-08_1.1.jpg": "/illia-shevchenko-resume/static/media/markup-hw-08_1.1.aa2ebf14b596cca3aca3.jpg",
+    "static/media/icecream-team-project_02.1.jpg": "/illia-shevchenko-resume/static/media/icecream-team-project_02.1.c9d8a2fbbbac4301c3d7.jpg",
+    "static/media/cv_serhii_shevchenko.pdf": "/illia-shevchenko-resume/static/media/cv_serhii_shevchenko.f1a1ef9d7ac707010fe1.pdf",
+    "static/media/pro-test_04.jpg": "/illia-shevchenko-resume/static/media/pro-test_04.7d48109be5d9fd9458ba.jpg",
+    "static/media/symbol-defs.svg": "/illia-shevchenko-resume/static/media/symbol-defs.4ca759390e8e5f97540dc6e5612e244c.svg",
+    "static/media/github.svg": "/illia-shevchenko-resume/static/media/github.edd1abda561727c1b0b20a72e05869e5.svg",
+    "index.html": "/illia-shevchenko-resume/index.html",
+    "main.d9fb6ac6.css.map": "/illia-shevchenko-resume/static/css/main.d9fb6ac6.css.map",
+    "main.78057e51.js.map": "/illia-shevchenko-resume/static/js/main.78057e51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9fb6ac6.css",
+    "static/js/main.78057e51.js"
+  ]
+}
