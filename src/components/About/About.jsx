@@ -12,7 +12,7 @@ const About = () => {
         {/* <h1>About</h1> */}
         <ul className={styles.about_wrapper}>
           <li className={styles.aboutText}>
-            <h2>SUMMARY</h2>
+            <h2 className={styles.title}>SUMMARY</h2>
             <div className={styles.about_box}>
               <p className={styles.text}>
                 I am a developer at Game Dev looking for an internship in a
@@ -24,7 +24,7 @@ const About = () => {
              
 
               <img
-                className={styles.text_img}
+                className={styles.about_img}
                 src={unity}
                 alt="web design"
                 // width={250}
@@ -35,7 +35,7 @@ const About = () => {
           </li>
 
           <li className={styles.aboutText}>
-            <h2>PROJECT EXPERIENCE</h2>
+            <h2 className={styles.title}>PROJECT EXPERIENCE</h2>
             <div className={styles.about_box}>
               <p className={styles.text}>
                 EmergencyKi tProject, Link [ C#, Unity ] Vanifestation of a
@@ -44,10 +44,10 @@ const About = () => {
               
              
 
-              <p  className={styles.ownProject}>Own project, Link Animation criated in Blender.</p>
+              <p  className={`${styles.ownProject} ${styles.text}`}>Own project, Link Animation criated in Blender.</p>
 
               <img
-                className={styles.text_img}
+                className={styles.about_img}
                 src={team_project}
                 alt="web design"
                 // width={250}
@@ -56,13 +56,13 @@ const About = () => {
           </li>
 
           <li className={styles.aboutText}>
-            <h2>EDUCATION</h2>
+            <h2 className={styles.title}>EDUCATION</h2>
             <div className={styles.about_box}>
               <p className={styles.text}>
                 State University of Telecommunications Software engineering 2021-
               </p>
               <img
-                className={styles.text_img}
+                className={styles.about_img}
                 src={dut}
                 alt="web design"
                 // width={250}
@@ -70,10 +70,10 @@ const About = () => {
             </div>
           </li>
           <li className={styles.aboutText}>
-            <h2>ADDITIONAL EDUCATION</h2>
+            <h2 className={styles.title}>ADDITIONAL EDUCATION</h2>
             <div className={styles.about_box}>
               <p className={styles.text}>
-                <strong>IT School Ampli (Kyiv)</strong>
+                IT School Ampli (Kyiv)
                 <br />
                 2022 Game Dev
 
@@ -83,7 +83,7 @@ const About = () => {
              
               
               <img
-                className={`${styles.text_img} ${styles.text_imgTop}`}
+                className={`${styles.about_img} ${styles.about_imgTop}`}
                 src={ampli}
                 alt="web design"
                 // width={250}

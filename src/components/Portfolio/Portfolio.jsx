@@ -5,6 +5,7 @@ import Project_3 from '../../images/projects/project_03.jpg';
 import Project_4 from '../../images/projects/project_04.jpg';
 import Project_5 from '../../images/projects/project_05.jpg';
 import Project_6 from '../../images/projects/project_06.jpg';
+
 import video_1 from '../../video/video-webm_01.webm';
 import video_01 from '../../video/video-mp4_01.mp4';
 import video_2 from '../../video/video-webm_02.webm';
@@ -24,7 +25,7 @@ const Portfolio = () => {
       <div className={styles.container}>
         <h1 className={styles.title}>My portfolio</h1>
 
-        <p className={styles.item}>Projects made in programm Blender</p>
+        <p className={styles.text}>Projects made in programm Blender</p>
 
         <ul className={styles.portfolioBox}>
           <li className={styles.pictures}>
@@ -58,44 +59,86 @@ const Portfolio = () => {
             <img className={styles.picturesImg} src={Project_6} alt="" />
           </li>
 
-          <li className={styles.video}>
+          <li className={styles.pictures}>
             <p className={styles.text}>_07</p>
-            <video poster="" className={styles.video_item} controls>
+            <video
+              autoPlay
+              muted
+              loop
+              poster=""
+              className={styles.video_item}
+              controls
+            >
               <source src={video_1} type="video/webm" />
               <source src={video_01} type="video/mp4" />
             </video>
           </li>
-          <li className={styles.video}>
+          <li className={styles.pictures}>
             <p className={styles.text}>_08</p>
-            <video poster="" className={styles.video_item} controls>
+            <video
+              autoPlay
+              muted
+              loop
+              poster=""
+              className={styles.video_item}
+              controls
+            >
               <source src={video_2} type="video/webm" />
               <source src={video_02} type="video/mp4" />
             </video>
           </li>
-          <li className={styles.video}>
+          <li className={styles.pictures}>
             <p className={styles.text}>_09</p>
-            <video poster="" className={styles.video_item} controls>
+            <video
+              autoPlay
+              muted
+              loop
+              poster=""
+              className={styles.video_item}
+              controls
+            >
               <source src={video_3} type="video/webm" />
               <source src={video_03} type="video/mp4" />
             </video>
           </li>
-          <li className={styles.video}>
+          <li className={styles.pictures}>
             <p className={styles.text}>_10</p>
-            <video poster="" className={styles.video_item} controls>
+            <video
+              autoPlay
+              muted
+              loop
+              poster=""
+              className={styles.video_item}
+              controls
+            >
               <source src={video_4} type="video/webm" />
               <source src={video_04} type="video/mp4" />
             </video>
           </li>
-          <li className={styles.video}>
+          <li className={styles.pictures}>
             <p className={styles.text}>_11</p>
-            <video poster="" className={styles.video_item} controls>
+            <video
+              autoPlay
+              muted
+              loop
+              poster=""
+              className={styles.video_item}
+              controls
+            >
               <source src={video_5} type="video/webm" />
               <source src={video_05} type="video/mp4" />
             </video>
           </li>
-          <li className={styles.video}>
+          <li className={styles.pictures}>
             <p className={styles.text}>_12</p>
-            <video poster="" className={styles.video_item} controls>
+            <video
+              autoPlay
+              muted
+              loop
+              poster=""
+              className={styles.video_item}
+              controls
+            >
               <source src={video_6} type="video/webm" />
               <source src={video_06} type="video/mp4" />
             </video>
