@@ -1,8 +1,8 @@
 import styles from './Home.module.css';
 import foto from '../../images/foto/foto-03.jpg';
 
-import videoWebm_fon from '../../video/video-webm-fon.webm';
-import videoMp4_fon from '../../video/video-mp4-fon.mp4';
+import videoWebm_fon from '../../video/video-webm-slow.webm';
+import videoMp4_fon from '../../video/video-mp4-slow.mp4';
 
 
 const Home = () => {
@@ -10,7 +10,7 @@ const Home = () => {
     <div className={styles.home}>
       <div className={styles.fullScreen}>
         <div className={styles.fullScreen_body}>
-          <div className={styles.fullScreen_title}>Hello! I am Illia.</div>
+          <div className={styles.fullScreen_title}>Hello!<br/> I am Illia.</div>
           <div className={styles.fullScreen_text}>
             A beginner game developer and designer.
           </div>

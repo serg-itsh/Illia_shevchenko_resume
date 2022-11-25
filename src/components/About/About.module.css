@@ -96,24 +96,24 @@
     display: flex;
     flex-wrap: wrap;
     max-width: 1200px;
-    gap: 75px;
+    gap: 75px 173px;
   }
 
   .aboutText {
-    width: 462px;
+    width: 413px;
   }
 
   .text {
-    font-size: 24px;
+    font-size: 22px;
     margin-bottom: 40px;
+  }
+
+  .about_img {
+    width: 390px;
   }
 
   .text_img {
     width: 400px;
-  }
-
-  .about_imgTop {
-    margin-top: 28px;
   }
 
   .title {
@@ -122,7 +122,10 @@
   }
 
   .ownProject {
-    /* margin-top: 50px; */
-    margin-bottom: 47px;
+    margin-bottom: 46px;
+  }
+
+  .about_imgTop {
+    margin-top: 29px;
   }
 }

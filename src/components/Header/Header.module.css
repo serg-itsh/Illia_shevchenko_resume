@@ -28,7 +28,7 @@
 
 .active {
   border-radius: 4px;
-  border-bottom: 1px solid rgb(255, 0, 0);
+  /* border-bottom: 1px solid rgb(255, 0, 0); */
   background-color: var(--button);
   color: white;
 
@@ -67,7 +67,7 @@
 
 /* =========== 768 ============ */
 
- @media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
   .container {
     width: 600px;
     padding: 0 20px;
@@ -78,38 +78,22 @@
   }
 }
 
- /* @media screen and (min-width: 768px) {
-  .header a:not(:last-child) {
-    margin-right: 50px;
-  }
-} */
-
- 
- /* @media screen and (min-width: 768px) {
-  .wrapper {
-    display: flex;
-    justify-content: space-between;
-  }
-}  */
-
 /* ========= 1280 ==========*/
 
- @media screen and (min-width: 1280px) {
+@media screen and (min-width: 1280px) {
   .container {
     width: 1000px;
     padding: 0 20px;
   }
 
   .header a {
-    font-size: 24px;
+    font-size: 18px;
+    font-weight: lighter;
   }
 
   .logo {
     width: 100px;
-    height: 120px;  
-    padding-top: 30px;  
-    
+    height: 120px;
+    padding-top: 30px;
   }
-}  
-
-
+}

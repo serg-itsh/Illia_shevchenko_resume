@@ -15,8 +15,7 @@ export const App = props => {
   return (
     <div className="app_wrapper">
       <Header />
-      {/* <Home/> */}
-      
+           
 
       <Routes>
       <Route path="/" element={<Home />} />

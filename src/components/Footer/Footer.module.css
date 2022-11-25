@@ -1,10 +1,7 @@
 .footer {
   /* grid-area: f; */
   text-align: center;
-  color: azure;
-
-  /* background: rgb(12, 11, 42); */
-  /* background-color: #2c2c2c; */
+  color: azure;  
   background-color: var(--bg-footer);
 }
 
@@ -53,7 +50,7 @@
   .footerBox {
     display: flex;
     flex-direction: row;
-    
+
     justify-content: space-between;
   }
 }
@@ -63,17 +60,14 @@
   margin-top: 30px;
   letter-spacing: 0.03em;
   color: var(--logo);
-  
+
   font-size: 24px;
-  /* font-style: normal; */
+
   font-weight: normal;
   line-height: 28px;
   text-decoration: none;
 
-  /* text-shadow: 0px 0px 18px #382ca7; */
   text-shadow: 0px 0px 18px var(--logo-shadow);
-
-  
 }
 
 @media screen and (min-width: 768px) {
@@ -91,7 +85,6 @@
 /* sergeishevchenko111@gmail.com */
 
 .pageFooter__links {
-
   font-style: normal;
   font-weight: lighter;
   font-size: 14px;
